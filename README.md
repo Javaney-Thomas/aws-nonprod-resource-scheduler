@@ -38,7 +38,7 @@ This solution automatically:
 
 ---
 
-## Architecture
+## How it Works
 
 EventBridge Scheduler
 
