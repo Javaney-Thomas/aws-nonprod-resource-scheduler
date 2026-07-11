@@ -11,7 +11,7 @@ The entire infrastructure is provisioned using Infrastructure as Code (Terraform
 ---
 ## Architecture
 
-![AWS Automated Non-Production Scheduler Architecture](diagrams/nonprod-scheduler.svg)
+![AWS Automated Non-Production Scheduler Architecture](diagrams/nonprod-scheduler.png)
 
 ## Business Problem
 
