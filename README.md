@@ -12,13 +12,14 @@ The entire infrastructure is provisioned using Infrastructure as Code (Terraform
 ## Architecture
 
 <p align="center">
-  <img src="diagrams/nonprod-scheduler.svg" alt="Architecture Diagram" width="900">
+  <img src="diagrams/nonprod-scheduler.png" alt="Architecture Diagram" width="900">
 </p>
 
 
 <p align="center">
   <img src="diagrams/nonprod-scheduler.svg" alt="AWS Automated Non-Production Scheduler Architecture" width="900">
 </p>
+
 ## Business Problem
 
 Development and testing environments are frequently left running overnight and during weekends.
