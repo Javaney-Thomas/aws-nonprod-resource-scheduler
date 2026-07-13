@@ -75,7 +75,7 @@ CloudShift helps organizations:
 # Architecture
 
 <p align="center">
-  <img src="diagrams/nonprod-scheduler.png" width="900" alt="AWS Automated Non-Production Scheduler Architecture">
+  <img src="diagrams/NonProd-Scheduler2.svg" width="900" alt="AWS Automated Non-Production Scheduler Architecture">
 </p>
 
 ---
